@@ -22,11 +22,7 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Desde los comienzos de la humanidad, la relación entre los principios éticos, el desarrollo económico y la sostenibilidad ha sido fundamental para garantizar un progreso equilibrado y equitativo. En un contexto globalizado, donde los desafíos éticos y ambientales son cada vez más evidentes, la bioética emerge como una herramienta clave para orientar decisiones económicas responsables que respeten tanto el medio ambiente como los derechos humanos.
-
-              p.descripcion.mb-4 En esta unidad, profundizaremos en el rol de la bioética como pilar de la sostenibilidad en el desarrollo económico, explorando temas esenciales como la aplicación de principios éticos al uso de recursos naturales, la influencia de las políticas globales en la protección de los derechos humanos y la ética en la innovación tecnológica. 
-              
-              p #[b Prepárate para explorar los retos y oportunidades que la sostenibilidad y la bioética presentan en un mundo en constante evolución.]
+              p.descripcion.mb-4 La unidad sobre “Seguimiento, auditoría y mejora continua de la seguridad vial laboral” forma a profesionales en la gestión efectiva del PESV. Aborda el seguimiento de indicadores claves (KPIs), la elaboración de informes, la ejecución de auditorías internas, y la implementación de acciones correctivas y preventivas. Resalta la necesidad de una cultura organizacional basada en la prevención, la participación activa, y la integración con otros sistemas de gestión (ISO 39001, 45001 y 14001). Este enfoque integral fortalece la seguridad vial, reduce riesgos y promueve la sostenibilidad en el entorno laboral.
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
