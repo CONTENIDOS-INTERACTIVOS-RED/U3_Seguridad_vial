@@ -152,7 +152,7 @@
           .col-lg-8.mb-3.mb-lg-0
             h2.mb-4(data-aos="flip-up") Indicadores de Gestión en Seguridad Vial
             p.mb-4(data-aos="fade-right") Se invita a leer el documento Indicadores de Gestión en Seguridad Vial, donde se aborda un conjunto detallado de indicadores diseñados para medir, evaluar y mejorar la seguridad vial en una organización o flota vehicular. 
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -197,7 +197,7 @@
                 h4.mb-4 Periodicidad de medición 
                 p Los indicadores deben medirse en cortes trimestrales fijos: 31 de marzo, 30 de junio, 30 de septiembre y 31 de diciembre. 
 
-        p(data-aos="fade-down") Este proceso de reporte no solo permite el cumplimiento normativo, sino que también fortalece la transparencia, la rendición de cuentas y la cultura de seguridad vial en la organización. Además, facilita la identificación de áreas de mejora continua y garantiza la protección de los trabajadores en sus desplazamientos laborales.   
+        p(data-aos="fade-down") A continuación, se presenta una descripción formal y estructurada del contenido requerido para el reporte anual de autogestión del Plan Estratégico de Seguridad Vial (PESV), el cual debe ser enviado a las autoridades competentes utilizando los canales oficiales dispuestos.
 
         .row.justify-content-center.align-items-center
           .col-lg-6.mb-3.mb-lg-0             

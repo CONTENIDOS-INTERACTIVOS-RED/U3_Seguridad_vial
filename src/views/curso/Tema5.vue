@@ -63,13 +63,13 @@
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-3.mb-lg-0
-            h2.mb-4(data-aos="flip-up") Elaboración de plan de emergencias y contingencias viales
-            p.mb-4(data-aos="fade-right") Se invita a leer el documento Elaboración de plan de emergencias y contingencias viales, donde se aborda la importancia de diseñar un plan integral para gestionar eficazmente emergencias en las vías.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            h2.mb-4(data-aos="flip-up") Indicadores de Gestión para la Seguridad Vial Laboral
+            p.mb-4(data-aos="fade-right") Se invita a leer el documento Indicadores de Gestión para la Seguridad Vial Laboral, donde se aborda una tabla detallada que articula y armoniza los elementos del Plan Estratégico de Seguridad Vial (PESV), el Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST, Decreto 1072 del 2015) y la norma internacional ISO 39001:2012.
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
-                p <strong>Anexo. </strong> Elaboración de plan de emergencias y contingencias viales
+                p <strong>Anexo. </strong> Indicadores de Gestión para la Seguridad Vial Laboral
           .col-lg-4
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/temas/43.png', alt='') 
